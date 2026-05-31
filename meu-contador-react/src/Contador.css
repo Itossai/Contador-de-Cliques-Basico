@@ -1,0 +1,17 @@
+.contador-container {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.contador-botoes {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.contador-botoes button {
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
